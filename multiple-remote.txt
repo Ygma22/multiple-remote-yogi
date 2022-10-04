@@ -1,2 +1,4 @@
 mencoba multiple-remote
 yaudah sih gini doang~
+
+kita akan coba tambahin beberapa kata untuk proses updating filenya! biar ada commit baru
